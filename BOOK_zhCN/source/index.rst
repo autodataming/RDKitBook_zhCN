@@ -12,6 +12,8 @@ RDKit中文教程
 RDKit 是开源的化学信息python软件包，功能非常强大。笔者在工作中经常需要用到该工具，为了帮助大家更好的使用RDKit，
 笔者创建了该教程。
 
+github: https://github.com/autodataming/RDKitBook_zhCN
+
 
 第一部分 RDKit 介绍
 ============================================
